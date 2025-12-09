@@ -93,19 +93,3 @@ This project is part of my learning journey to strengthen my web development fun
 📬 Contact
 
 Feel free to connect or report issues!
-
-GitHub: (Add your GitHub profile link here)
-Email: (Add your email here)
-
-⭐ How to Use
-
-Download or clone this repository
-
-Open any HTML file in your browser
-
-Modify the content as per your requirements
-
-🙌 Contributions
-
-Suggestions and improvements are welcome!
-Just open an issue or submit a pull request.
